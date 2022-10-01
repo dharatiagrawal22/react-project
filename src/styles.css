@@ -1,0 +1,25 @@
+.data-style {
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid black;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.details-style {
+  margin-left: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 350px;
+  border: 1px solid brown;
+  overflow: hidden;
+  margin-bottom: 0px;
+}
+.details-style img {
+  height: 200px;
+  width: 180px;
+  margin: 5px;
+  margin-left: 10px;
+  margin-bottom: 1px;
+}
